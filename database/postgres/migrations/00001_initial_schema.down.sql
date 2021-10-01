@@ -1,0 +1,9 @@
+DROP TABLE IF EXISTS users;
+
+DROP TABLE IF EXISTS referral_codes;
+
+DROP TABLE IF EXISTS referrals;
+
+DROP TABLE IF EXISTS user_points;
+
+DROP TABLE IF EXISTS transactions;

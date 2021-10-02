@@ -3,7 +3,6 @@ module github.com/Qalifah/aboki-africa-assessment
 go 1.15
 
 require (
-	github.com/danvixent/aboki-africa-assessment v0.0.0-20210927130141-e193f463bd36
 	github.com/dimfeld/httptreemux v5.0.1+incompatible
 	github.com/jackc/pgconn v1.10.0
 	github.com/jackc/pgx/v4 v4.13.0
